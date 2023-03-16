@@ -4,11 +4,11 @@
 
 ReNoise
 
-![ReNoise Screenshot](./screenshot.png)
+![ReNoise Screenshot](screenshot.png)
 
 Redux
 
-![Redux Screnshot](./redux-screenshot.png)
+![Redux Screnshot](redux-screenshot.png)
 
 (NOTE: HDPI screenshots at 150% UI up scale on Windows 10 at 3840x2160)
 
@@ -23,6 +23,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![B00MER](https://github.com/molotovbliss.png?size=100)](https://github.com/molotovbliss) |
 | ------------------------------------------------------------------------------------------ |
 | [B00MER](https://github.com/molotovbliss)                                                  |
+
+| [![veevyo](https://github.com/veevyo.png?size=100)](https://github.com/veevyo) |
+| ------------------------------------------------------------------------------------------ |
+| [veevyo](https://github.com/veevyo)                                                  |
 
 ## Community
 
