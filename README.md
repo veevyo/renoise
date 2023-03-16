@@ -4,7 +4,7 @@
 
 ReNoise
 
-![ReNoise Screenshot](screenshot.png)
+![ReNoise Screenshot](veevyoscreenshot.png)
 
 Redux
 
